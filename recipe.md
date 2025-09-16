@@ -6,6 +6,7 @@
 - 3/4 cup unsweetened cocoa powder
 - 1 cup chocolate chips
 - 1 tsp vanilla extract
+- 3 cups white chocolate
 - ...
 
 ## Instructions:
