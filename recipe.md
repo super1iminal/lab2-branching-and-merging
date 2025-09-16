@@ -6,10 +6,11 @@
 - 3/4 cup unsweetened cocoa powder
 - 1/2 tsp ground cinnamon
 - ...
+- (optional) 1/2 tsp vanilla extract
 
 ## Instructions:
 1. Preheat the oven to 375°F (190°C).
-2. In a large bowl, whisk together the flour, sugar, cocoa powder, and ground cinnamon.
+2. In a large bowl, whisk together the flour, sugar, cocoa powder, ground cinnamon, and cinnamon.
 3. ...
 
 ## Additional Directions by Bob:
