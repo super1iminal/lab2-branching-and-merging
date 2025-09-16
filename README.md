@@ -2,6 +2,10 @@
 
 The main topic of this first lab activity is branching and merging in git.
 
+test addition
+
+I need u to stop modify this
+
 ## Resources and Acknowledgements
 
 - https://www.atlassian.com/git/tutorials/using-branches contains an excellent, detailed
