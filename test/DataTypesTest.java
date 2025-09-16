@@ -1,13 +1,9 @@
 import org.junit.jupiter.api.Test;
-import static org.junit.jupiter.api.Assertions.assertEquals;
+import static org.junit.Assert.assertEquals;
 
 public class DataTypesTest {
 
     @Test
-    /**
-     * Test that DataTypes.sum returns the correct value for
-     * the sum from 1 to 1 million.
-     */
     public void largeSumTest() {
 
         // You put an L at the end to indicate it is a long.
@@ -20,6 +16,6 @@ public class DataTypesTest {
         for (int i = 1; i <= 1_000_000; i++) {
             numbers[i-1] = i;
         }
-        assertEquals(x, DataTypes.sum(numbers), "sum from 1 to 1 million should be " + x);
+        assertEquals(x, DataTypes.sum(numbers));
     }
 }
