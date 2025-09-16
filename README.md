@@ -40,7 +40,7 @@ If you miss the lab and work on this after, you can use this URL though.
 
 ---
 
-- [ ] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
+- [x] Open the TODO tool window (`View -> Tool Windows -> TODO`) and click on the TASK 1 TODO listed.
 
 ---
 
